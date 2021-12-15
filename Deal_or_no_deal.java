@@ -1,4 +1,6 @@
-//Shawn Chen Deal or No Deal Calculator HW #3
+/* CCC 2007 J3
+https://dmoj.ca/problem/ccc07j3
+*/
 
 import java.util.*;
 
@@ -345,19 +347,9 @@ public class Deal_or_no_deal {
 					finalAnswer = "Deal";
 					
 				} else {
-					finalAnswer = "No Deal";
-					
-
-					
+					finalAnswer = "No Deal";	
 				} 				
 				System.out.println(finalAnswer);
-
-
-				
-				
 			}
-			
-		
-
 	}
 }
